@@ -1,12 +1,1 @@
-src/lib/node_modules
-public/*.js
-bower_components
-__pycache__
-*.pyc
-bin
-obj
-*.db
-*.sqlite3
-.vscode
-dist
-database.json
+# smallBusiness
